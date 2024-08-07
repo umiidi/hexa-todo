@@ -1,0 +1,6 @@
+rootProject.name = 'hexa-todo'
+include 'web-adapters'
+include 'database-adapters'
+include 'core'
+
+
